@@ -1,0 +1,9 @@
+{
+	"name": "copyblob601",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60a8af3a-d722-4da4-b515-d7ec7cc29ed7",
+		"tenantId": "8d9ee948-44fc-4967-834f-8ddbb90e121e"
+	}
+}
